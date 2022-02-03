@@ -1,0 +1,10 @@
+UnityExplorer 4.5.2 initializing...
+Cached AppDomain assemblies in 1.179761 seconds
+Finished UniverseLib initial setup
+Initialized new InputSystem support.
+Loaded modern bundle for Unity 2019.3.15f1
+UniverseLib 1.1.1 initialized.
+Setting up late core features...
+Creating UI...
+
+UnityExplorer 4.5.2 initialized.
